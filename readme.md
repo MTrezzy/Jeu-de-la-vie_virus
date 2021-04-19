@@ -11,6 +11,6 @@ Ma proposition est d'utiliser les règles proches du jeu de la vie originale mai
 ## Installation
 
 You need:
-	- Python3
-	- python3-tk
-	- numpy
+- Python3
+- python3-tk
+- numpy
